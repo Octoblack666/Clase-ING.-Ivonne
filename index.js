@@ -20,3 +20,16 @@ lista = [1,2,3,4,5];
 
 console.log('los número son:', lista);
 
+let lista2;
+
+lista2 = ["H","J","K"];
+
+console.log('las letras son:', lista2);
+
+console.log('esta es la posición 3 de lista', lista[3])
+
+console.log('esta es la posición 0 de lista2', lista2[0]);
+
+console.log('esta es la posición 5 de lista', lista[4]);
+
+
