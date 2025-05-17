@@ -33,3 +33,8 @@ console.log('esta es la posición 0 de lista2', lista2[0]);
 console.log('esta es la posición 5 de lista', lista[4]);
 
 
+let persona;
+persona = {nombre:"Ana", edad:"20", estatura: 1.70, ojos:"azules", pelo:"negro", hombre: false, mujer: true};
+
+console.log('Ana tiene estas caracteristicas', persona);
+
