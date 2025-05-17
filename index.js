@@ -9,3 +9,9 @@ texto = "soy yo";
 
 console.log('Texto:', texto);
 
+let sleep;
+sleep = true;
+
+console.log('Sueño está en', sleep);
+
+
