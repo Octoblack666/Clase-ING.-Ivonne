@@ -4,3 +4,8 @@ numero = 42;
 
 console.log('Este es el valor de número', numero);
 
+let texto;
+texto = "soy yo";
+
+console.log('Texto:', texto);
+
