@@ -15,3 +15,8 @@ sleep = true;
 console.log('Sueño está en', sleep);
 
 
+let lista;
+lista = [1,2,3,4,5];
+
+console.log('los número son:', lista);
+
